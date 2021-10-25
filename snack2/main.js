@@ -20,3 +20,7 @@ const soccerSquads = [
     falls: 0
   }
 ]
+
+Math.floor(Math.random() * 10);
+
+
